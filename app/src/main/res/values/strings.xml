@@ -1,0 +1,20 @@
+<resources>
+
+
+    <string name="x">X</string>
+    <string name="and">+ and -</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="button2">-</string>
+    <string name="button">+</string>
+    <string name="operator">+</string>
+    <string name="first_number">First number</string>
+    <string name="second_number">Second number</string>
+    <string name="result">Result</string>
+    <string name="app_name">mainapp</string>
+    <string name="clear_msg" />
+    <string name="radiobutton">RadioButton</string>
+    <string name="textview">TextView</string>
+    <string name="numberFormatKey" />
+
+
+</resources>
